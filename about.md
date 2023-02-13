@@ -3,21 +3,17 @@ title: About
 layout: page
 permalink: /about
 ---
-This is an example of a file written in [Markdown](https://daringfireball.net/projects/markdown/). Notice how
-this file lacks the normal HTML tags you may be used to seeing on website source code. Instead there is a simple syntax for applying most of the basic HTML formatting we use every day.
+<p><img src="https://cdn.pixabay.com/photo/2021/12/02/22/02/mental-6841357_1280.png" alt="Mental Therapy Counseling Image from Pixabay"/></p>
+<p> According to the *World Health Organization*, "stress can be defined as any type of change that causes physical, emotional or psychological strain." Too much stress can have negative consequences if it isn't managed properly.</p>
+<p>The purpose of this website is to help you find resources and articles that can aid in lowering stress.
+    Each section will link to helpful articles to read for more information on the topic or site that can help with completing tasks.
+    The main sections are:</p>
 
-## This is what an h2 element looks like in Markdown
+<ul>
+    <li>Study Habits</li>
+    <li>Scheduling</li>
+    <li>Sleep</li>
+    <li>Meditation</li>
+</ul>
 
-Paragraphs are just text without `<p>` tags. Take a look at my unordered (bulleted) list below:
-
-- list item one
-- list item two
-- list item three
-
-And here's an ordered (numbered) list:
-
-1. List item one
-1. list item two
-1. list item three
-
-(You can use any number and the script will convert the numbers to the correct ordering.)
+<p>For more information on what stress is, the <a href="https://www.who.int/news-room/questions-and-answers/item/stress#:~:text=Stress%20can%20be%20defined%20as,to%20your%20overall%20well%2Dbeing.">World Health Organization's page on stress</a> is a great place to start.</p>
