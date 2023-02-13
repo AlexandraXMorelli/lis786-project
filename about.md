@@ -16,4 +16,4 @@ permalink: /about
     <li>Meditation</li>
 </ul>
 
-<p>For more information on what stress is, the <a href="https://www.who.int/news-room/questions-and-answers/item/stress#:~:text=Stress%20can%20be%20defined%20as,to%20your%20overall%20well%2Dbeing.">World Health Organization's page on stress</a> is a great place to start.</p>
+<p>For more information on what stress is, the <a target="_blank" href="https://www.who.int/news-room/questions-and-answers/item/stress#:~:text=Stress%20can%20be%20defined%20as,to%20your%20overall%20well%2Dbeing.">World Health Organization's page on stress</a> is a great place to start.</p>
