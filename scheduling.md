@@ -1,5 +1,5 @@
 ---
-title: About
+title: Scheduling
 layout: page
 permalink: /scheduling
 ---

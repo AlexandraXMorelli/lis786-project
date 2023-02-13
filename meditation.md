@@ -1,5 +1,5 @@
 ---
-title: About
+title: Meditation
 layout: page
 permalink: /meditation
 ---

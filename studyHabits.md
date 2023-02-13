@@ -1,5 +1,5 @@
 ---
-title: About
+title: Study Habits
 layout: page
 permalink: /studyhabits
 ---
