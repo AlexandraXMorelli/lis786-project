@@ -7,6 +7,5 @@ image_alt: An image of a woman meditating.
 my_variable: Meditation is a great way to relax and lower stress.
 ---
 {% include page-image.html %}
-<img src="{{page.image_url}}" alt="An image of a woman meditating">
 <p> This is my page on meditation. </p>
 {{ page.my_variable }}
