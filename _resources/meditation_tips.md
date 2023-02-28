@@ -1,5 +1,5 @@
 ---
-title: Online Timer
+title: Meditation Tips
 category: meditation
 image: https://images.pexels.com/photos/707582/pexels-photo-707582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 ---
