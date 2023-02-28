@@ -1,12 +1,12 @@
 title: My LIS786 Project
 theme: minima
 collections:
-  collection:
+  resources:
     output: true
 
 
 defaults:
   - scope:
-      type: "collection"
+      type: "resources"
     values:
-      layout: collection_item
+      layout: resource
