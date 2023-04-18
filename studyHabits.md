@@ -6,6 +6,7 @@ image_url: https://images.pexels.com/photos/159866/books-book-pages-read-literat
 image_alt: An image of a pile of books
 my_variable: Forming good study habits can reduce school-related stress.
 ---
+<div class="content-left" markdown="1">
 {% include page-image.html %}
 <p> This is my page on study habits </p>
 {{ page.my_variable }}
@@ -18,3 +19,5 @@ my_variable: Forming good study habits can reduce school-related stress.
 <p>Category: {{ resource.category }}</p>
 {% endif %}
  {% endfor %}
+</div>
+<div class="clearfix">

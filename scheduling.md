@@ -6,6 +6,7 @@ image_url: https://images.pexels.com/photos/273153/pexels-photo-273153.jpeg?auto
 image_alt: An image of a planner.
 my_variable: Sticking to a schedule can help you manage your time better.
 ---
+<div class="content-left" markdown="1">
 {% include page-image.html %}
 <p> This is my page on scheduling </p>
 {{ page.my_variable }}
@@ -18,3 +19,5 @@ my_variable: Sticking to a schedule can help you manage your time better.
 <p>Category: {{ resource.category }}</p>
 {% endif %}
  {% endfor %}
+</div>
+<div class="clearfix">

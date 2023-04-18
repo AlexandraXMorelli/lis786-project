@@ -6,6 +6,7 @@ image_url: https://images.pexels.com/photos/2908175/pexels-photo-2908175.jpeg?au
 image_alt: An image of a woman meditating.
 my_variable: Meditation is a great way to relax and lower stress.
 ---
+<div class="content-left" markdown="1">
 {% include page-image.html %}
 <p> This is my page on meditation. </p>
 {{ page.my_variable }}
@@ -18,3 +19,5 @@ my_variable: Meditation is a great way to relax and lower stress.
 <p>Category: {{ resource.category }}</p>
 {% endif %}
  {% endfor %}
+</div>
+<div class="clearfix">
