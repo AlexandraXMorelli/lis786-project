@@ -20,5 +20,5 @@ permalink: /about
 <p>For more information on what stress is, the <a href="https://www.who.int/news-room/questions-and-answers/item/stress#:~:text=Stress%20can%20be%20defined%20as,to%20your%20overall%20well%2Dbeing." target="_blank"> World Health Organization's page on stress</a> is a great place to start.</p>
 </div>
 <div class="img-right" markdown="1">
-! [Cartoon Image of Mental Therapy] (/assets/images/brain.jpg)
+![Brain Image](/assets/images/brain.jpg)
 </div>
