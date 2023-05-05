@@ -20,12 +20,13 @@ title {
     display: table;
 }
 .content-left {
-    @media all and (min-width:960px) {
-    width: 66%;
-    float: left;
-    padding-right: 15px;
-    }
+    @media (min-width: 960px) {
+        .img-right {
+           float: right;
+           width: calc(33% - 15px);
+        }
 }
+
 .img-right {
     @media all and (min-width:960px) {
      width: 33%;
