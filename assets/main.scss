@@ -29,7 +29,7 @@ title {
 
 .img-right {
     @media all and (min-width:960px) {
-     width: 33%;
+     width: calc(33% -15px);
     float: right;
     }
 }
